@@ -1,0 +1,82 @@
+{
+ "021babd65f955d35bc2f594020fc6213243655bf196f57a1087e6c74c806aed3": {
+  "text": "No, you cannot respond to your opponent playing a land.\n\nAccording to rule **305.1**, playing a land is a special action that does not use the stack. Because the land does not go on the stack, it is not a spell, and \"players can\u2019t respond to it with instants or activated abilities.\"",
+  "seconds": 10.873202116999892
+ },
+ "2c837562980eaaf4a377c91354d85d008d8d02069979343f3f19ad1ea9cebe3c": {
+  "text": "No, you cannot respond to your opponent playing a land.\n\nAccording to rule **305.1**, playing a land is a special action that does not use the stack. Because it does not go on the stack, it is not a spell, and \"players can\u2019t respond to it with instants or activated abilities.\" Rule **116.2a** also confirms that playing a land is a special action.",
+  "seconds": 10.124543402002018
+ },
+ "0b243f3b359e29a2027a2dc7fd915c42eb13d751f87daf757bd5a4a45697aef8": {
+  "text": "The provided excerpts do not contain enough information to answer this question.\n\nWhile rules **(1)** and **(2)** state that an attacking creature remains an attacking creature until \"it\u2019s removed from combat or the combat phase ends,\" the excerpts do not define the conditions that cause a permanent to be \"removed from combat,\" nor do they specify what happens if an attacking permanent ceases to be a creature.\n\nRules relied on: **(1)**, **(2)**",
+  "seconds": 32.888436387002
+ },
+ "46fcb1fcaee2bbfec0b8494ec1ff68d4c49a7366b012ed2de0aec047525065d5": {
+  "text": "No, an attacking creature does not stay attacking if it stops being a creature.\n\nAccording to rule **506.4**, a permanent is removed from combat if it is an attacking creature and it \"stops being a creature.\" Furthermore, rule **506.4** states that \"a creature that\u2019s removed from combat stops being an attacking... creature.\"",
+  "seconds": 11.76547968199884
+ },
+ "98b890abdd24c516acabc56ac432d2d5547c9488153cfad5de2ed32ad3269a9a": {
+  "text": "The provided excerpts do not contain enough information to answer this question.\n\nWhile rule **702.2b** states that a creature dealt damage by a source with deathtouch is \"destroyed as a state-based action,\" the provided rules do not define the keyword \"indestructible\" or explain how it interacts with effects that destroy creatures.",
+  "seconds": 13.019622971001809
+ },
+ "e6d3d0915622ccd2788e5d19a8ec5df182703468a7c7a0b286a72b3863f5eba6": {
+  "text": "No, deathtouch does not kill a creature with indestructible.\n\nAccording to rules **702.2b** and **704.5h**, a creature dealt damage by a source with deathtouch is \"destroyed\" as a state-based action. However, rule **702.12b** states that a permanent with indestructible \"can\u2019t be destroyed.\" Because the creature cannot be destroyed, the state-based action resulting from deathtouch fails to remove it from the battlefield.",
+  "seconds": 9.609921560000657
+ },
+ "61dd58cbd4c51658263485ca7b8a62cb6b8601366a4154202b33bbd1bb9d52d0": {
+  "text": "Based on the rules excerpts provided, the answer is yes, there are situations where players receive priority during the cleanup step, but the excerpts do not contain enough information to describe what those specific situations are.\n\nThe rules rely on the following points:\n*   **Rule 500.3** states that \"certain cleanup steps\" are among the only steps in which no players receive priority. This implies that there are other cleanup steps where players do receive priority.\n*   **Rule 117.3a** states that \"Players usually don\u2019t get priority during the cleanup step,\" which further implies that there are unusual circumstances where they do.\n\nThe provided excerpts do not include the specific conditions (referenced as rule 514.3) that would cause players to receive priority during a cleanup step.",
+  "seconds": 9.786454261000472
+ },
+ "beb056374ddb34263ee6032252eadab79f615a8db80af340cb670005ff17a8fc": {
+  "text": "Yes, players can receive priority during the cleanup step if certain conditions are met.\n\nAccording to the provided rules:\n\n*   **Rule 514.3a** states that while players normally do not receive priority during cleanup, an exception occurs if state-based actions would be performed or if triggered abilities are waiting to be put onto the stack (including those that trigger \u201cat the beginning of the next cleanup step\u201d). In this case, \"the active player gets priority\" and \"players may cast spells and activate abilities.\"\n*   **Rule 704.3** confirms this process, noting that if state-based actions are performed or triggered abilities are waiting to be put on the stack during the cleanup step, the game follows the standard procedure until \"the appropriate player gets priority.\"\n*   **Rule 117.3a** and **Rule 514.3** both clarify that while players \"usually\" or \"normally\" do not receive priority during this step, these exceptions allow for it.",
+  "seconds": 13.110359136000625
+ },
+ "3d373d896457124357240b52a0978ad9f082fc844278e97a83d0490a9626c6f4": {
+  "text": "The provided excerpts do not contain enough information to determine if a defending player is required to block.\n\nWhile Rule (1) states that a creature \"**can** block an attacking creature\" and Rule (2) states that \"the defending team **declares blockers**,\" the excerpts do not explicitly state whether declaring blockers is mandatory or if the set of blocking creatures can be empty. The referenced Rule 509.1, which contains the specific details for the declare blockers step, is not included in the provided text.",
+  "seconds": 24.124279586998455
+ },
+ "3974c48cd65b80d367a57f40e6f9e23485e31d6ff28df42098b60e734e46f041": {
+  "text": "Based on the rules excerpts provided, the defending player is not required to block.\n\nRule **509.1a** states: \"The defending player chooses which creatures they control, **if any**, will block.\" The inclusion of the phrase \"if any\" indicates that the player may choose to declare zero creatures as blockers.",
+  "seconds": 11.342614819001028
+ },
+ "782c2c7de65a44e0d78361dc4283d4542872a9876dc409df02a3ff4c96863c3b": {
+  "text": "The provided excerpts do not contain enough information to answer whether a cost can be paid partially if you do not have enough mana.",
+  "seconds": 10.220590767999965
+ },
+ "401d3a24ce88469bfa1bd778b8b6bdd991df57df95b643a272b3fb6a1a14236c": {
+  "text": "No. According to the rules provided:\n\n*   **118.3**: \"A player can\u2019t pay a cost without having the necessary resources to pay it fully.\"\n*   **601.2h**: \"Partial payments are not allowed. Unpayable costs can\u2019t be paid.\"",
+  "seconds": 11.079057694001676
+ },
+ "a0327fda145792c07471097b40f8ab5a053d5cbea763d572ea30192edf7c082d": {
+  "text": "Yes, a player can concede the game at any time.\n\nAccording to rule **723.6**, \"A player may concede the game at any time, even if they are controlled by another player.\" Additionally, rule **101.1** states that the ability for a player to concede at any time is the only exception to the rule that card text takes precedence over the game rules.",
+  "seconds": 9.52050570099891
+ },
+ "7296f0737a05b78db535f21bd8fd59e4096dff940e404ba3bca3c789a05d64fc": {
+  "text": "Yes, a player can concede the game at any time.\n\nAccording to the rules provided:\n*   **104.3a** states: \"A player can concede the game at any time.\"\n*   **723.6** confirms this, noting that \"A player may concede the game at any time, even if they are controlled by another player.\"\n*   **101.1** establishes that this is a fundamental rule that cards cannot override, stating: \"The only exception [to card text taking precedence over rules] is that a player can concede the game at any time.\"",
+  "seconds": 14.544720852001774
+ },
+ "605220142c4faf48811561f1b4fffdb0ee900cf8ac675e2d3fed76aabc50ffcc": {
+  "text": "The provided excerpts do not contain enough information to answer this question. None of the rules provided (401.1, 401.6, or 701.24) describe the conditions under which a player loses the game.",
+  "seconds": 10.839630708000186
+ },
+ "61248e9564579d8859f1e08b11f900a2254137b938a57619772f915589091430": {
+  "text": "No, you do not lose immediately simply because your library is empty.\n\nAccording to rule **121.4**, a player loses the game only when they **attempt to draw a card** from a library with no cards in it. This loss occurs \"the next time a player would receive priority\" as a state-based action.\n\nAdditionally, rule **727.3** notes that if a game has been restarted and a player has fewer than seven cards in their library, they will lose when state-based actions are checked during the upkeep step of the first turn (due to the requirement to draw seven cards at the start of the game).",
+  "seconds": 12.517364041999826
+ },
+ "27e21e2c3a3b663d40ca315fe93c8c9d8a0cad7abb2dd7260c8908b88bad27a1": {
+  "text": "Yes, an ability can be countered, but it depends on the type of ability and the specific wording of the counter effect:\n\n*   **Activated and triggered abilities** on the stack can be countered by effects that specifically counter abilities (113.9).\n*   **Activated and triggered abilities** cannot be countered by effects that counter only spells (113.9).\n*   **Static abilities** do not use the stack and cannot be countered at all (113.9).\n\nWhen an ability is countered, it is removed from the stack, it does not resolve, and none of its effects occur (701.6a, Glossary). The player who activated the ability does not receive a refund of any costs paid (701.6b).",
+  "seconds": 10.821898862002854
+ },
+ "8cb8983f6d274173c0e9970624cd4c2e469a5a77046110b22207ab9d51a107b0": {
+  "text": "Based on the rules provided:\n\nActivated and triggered abilities cannot be countered by anything that counters only spells, because these abilities are not spells. However, they can be countered by effects that specifically counter abilities. Static abilities cannot be countered at all because they do not use the stack.\n\n**Rule cited:**\n*   **113.9**: \"Activated and triggered abilities on the stack aren\u2019t spells, and therefore can\u2019t be countered by anything that counters only spells. Activated and triggered abilities on the stack can be countered by effects that specifically counter abilities. Static abilities don\u2019t use the stack and thus can\u2019t be countered at all.\"",
+  "seconds": 66.01761540699954
+ },
+ "3ff005016a7d22d1f51b69c95ea3262e35a6a877708a019c8d0c5fb3db81b3d4": {
+  "text": "The provided excerpts do not contain enough information to determine if a creature with 0 toughness is destroyed.\n\nWhile the excerpts provide the following definitions, they do not state the outcome for a creature that has 0 toughness:\n*   **Rule 302.4b** states that \"A creature\u2019s toughness is the amount of damage needed to destroy it.\"\n*   **Rule 208.5** states that a creature's toughness can be 0.\n*   **The Glossary (1)** defines \"Lethal Damage\" as damage \"greater than or equal to a creature\u2019s toughness.\"\n\nThe excerpts do not explain what happens to a creature with 0 toughness in the absence of damage, nor do they provide the text for the rules governing destruction or state-based actions (such as rule **704.5g**, which is referenced in the Glossary but not included in the excerpts).",
+  "seconds": 17.677279652001744
+ },
+ "c38957f7f3a29853e1393718ed13ad63d5c0f65f642b3a7228c3f68ddc221143": {
+  "text": "The provided excerpts do not contain enough information to determine if a creature with 0 toughness is destroyed.\n\nAccording to the rules provided:\n*   **Rule 208.5** states that if a creature has no value for its toughness, its toughness is 0.\n*   **Rules 302.7 and 120.6** describe the conditions for \"lethal damage,\" stating that if the total damage marked on a creature is greater than or equal to its toughness, it is destroyed as a state-based action.\n\nHowever, the excerpts are insufficient for the following reasons:\n1.  **Damage Requirement:** Rules 302.7 and 120.6 only define destruction in the context of damage being marked on a creature. Rule 302.7 specifies that \"Damage dealt to a creature... is marked on that creature.\" The excerpts do not define the \"total damage marked\" for a creature that has not been dealt damage, nor do they state that a creature with 0 toughness is destroyed in the absence of damage.\n2.  **Missing State-Based Action:** In the full Magic: The Gathering rules, a creature with 0 toughness is put into the graveyard by a specific state-based action (Rule 704.5f) that is distinct from destruction due to lethal damage (Rule 704.5g). Because the provided excerpts only cover the lethal damage rule and not the 0-toughness rule, they do not contain the information necessary to determine the fate of a creature that simply has 0 toughness.",
+  "seconds": 50.829774283003644
+ }
+}
