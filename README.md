@@ -1,7 +1,7 @@
 # RAG: Baseline vs. Cross-Encoder Re-Ranking
 
 Compares a bi-encoder baseline with cross-encoder re-ranking for RAG over the
-[Magic: The Gathering Comprehensive Rules](https://magic.wizards.com/en/rules) (effective 25 Sept 2026).
+[Magic: The Gathering Comprehensive Rules](https://magic.wizards.com/en/rules).
 
 | Component | Model |
 |---|---|
